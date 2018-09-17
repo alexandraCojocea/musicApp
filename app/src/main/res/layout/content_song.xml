@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/song_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="124dp"
+        android:padding="@dimen/standard_padding"
+        android:src="@drawable/song_one" />
+
+    <TextView
+        android:id="@+id/content_song_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:textSize="36sp" />
+
+    <TextView
+        android:id="@+id/content_singer_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="@dimen/standard_padding"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/standard_text" />
+
+    <ProgressBar
+        android:id="@+id/determinateBar"
+        android:layout_width="match_parent"
+        android:layout_height="4dp"
+        android:background="@android:color/white" />
+
+    <ImageView
+        android:id="@+id/play_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/standard_padding"
+        android:background="@color/colorPrimary"
+        android:padding="@dimen/standard_padding" />
+</LinearLayout>

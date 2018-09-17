@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Muzical</string>
+    <string name="app_main_list">Song List</string>
+    <string name="app_song_content">Song Playing</string>
+    <string name="title_activity_song">SongActivity</string>
+
+    <string name="dance">Dance</string>
+
+    <string name="dance_song_one">A Thousand Years</string>
+    <string name="dance_song_two">We Found Love</string>
+    <string name="dance_song_three">Happy</string>
+    <string name="dance_song_four">Stay</string>
+    <string name="dance_song_five">2U</string>
+
+    <string name="dance_singer_one">Christina Peri</string>
+    <string name="dance_singer_two">Rihanna</string>
+    <string name="dance_singer_three">Pharrell Williams</string>
+    <string name="dance_singer_four">Alessia Cara</string>
+    <string name="dance_singer_five">David Guetta</string>
+
+    <string name="pop">Pop</string>
+
+    <string name="pop_song_one">Perfect</string>
+    <string name="pop_song_two">Havana</string>
+    <string name="pop_song_three">New Rules</string>
+    <string name="pop_song_four">Issues</string>
+    <string name="pop_song_five">Meant To Be</string>
+
+    <string name="pop_singer_one">Ed Sheeran</string>
+    <string name="pop_singer_two">Camila Cabello</string>
+    <string name="pop_singer_three">Dua Lipa</string>
+    <string name="pop_singer_four">Julia Michaels</string>
+    <string name="pop_singer_five">Bebe Rexha</string>
+
+    <string name="jazz">Jazz</string>
+
+    <string name="jazz_song_one">Fly Me To The Moon</string>
+    <string name="jazz_song_two">So What</string>
+    <string name="jazz_song_three">Body And Soul</string>
+    <string name="jazz_song_four">Satin Doll</string>
+    <string name="jazz_song_five">The Girl From Ipanema</string>
+
+    <string name="jazz_singer_one">Frank Sinatra</string>
+    <string name="jazz_singer_two">Miles Davis</string>
+    <string name="jazz_singer_three">Amy Winehouse</string>
+    <string name="jazz_singer_four">Teresa Brewer</string>
+    <string name="jazz_singer_five">Stan Getz</string>
+
+    <string name="rock">Rock</string>
+
+    <string name="rock_song_one">Enter Sandman</string>
+    <string name="rock_song_two">Stairway To Heaven</string>
+    <string name="rock_song_three">Radioactive</string>
+    <string name="rock_song_four">Dream On</string>
+    <string name="rock_song_five">Highway To Hell</string>
+
+    <string name="rock_singer_one">Metallica</string>
+    <string name="rock_singer_two">Led Zeppelin</string>
+    <string name="rock_singer_three">Imagine Dragons</string>
+    <string name="rock_singer_four">Aerosmith</string>
+    <string name="rock_singer_five">AC/DC</string>
+
+
+</resources>
